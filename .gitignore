@@ -7,3 +7,5 @@ inter.ttf
 /Lib
 /Scripts
 /share
+.gitignore
+pyvenv.cfg
